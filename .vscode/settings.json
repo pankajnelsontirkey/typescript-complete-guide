@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.wordWrap": "bounded",
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true,
+  "prettier.trailingComma": "none",
+  "files.eol": "\n"
+}
